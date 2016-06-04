@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f0ff;
+    color: #303030;
+    margin: 40px auto;
+    padding: 0px 10px;
+    max-width: 800px;
+    line-height: 1.6;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+a {
+    color: #2020a0;
+}
+
+li {
+    padding: 10px 0px;
+}
